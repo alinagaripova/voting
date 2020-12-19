@@ -6,3 +6,10 @@
 </h1>
 
 [Project link](https://alinagaripova.github.io/voting/)
+
+###Стэк:
+
+- React/Gatsby JS
+- SCSS/LESS
+- Bootstrap
+- Ant Design
