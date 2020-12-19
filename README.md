@@ -7,7 +7,7 @@
 
 [Project link](https://alinagaripova.github.io/voting/)
 
-###Стэк:
+<h1>Стэк:</h1>
 
 - React/Gatsby JS
 - SCSS/LESS
