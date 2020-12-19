@@ -5,4 +5,4 @@
   Voting by Gatsby JS
 </h1>
 
-[Project link](https://alinagaripova.github.io/voting-gatsbyjs/public/index.html)
+[Project link](https://alinagaripova.github.io/voting/)
