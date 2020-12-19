@@ -10,6 +10,7 @@
 <h1>Стэк:</h1>
 
 - React/Gatsby JS
+- GraphQL
 - SCSS/LESS
 - Bootstrap
 - Ant Design
